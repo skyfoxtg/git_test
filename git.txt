@@ -1,0 +1,7 @@
+repository	: ειναι μια αποθυκη κωδικα
+git init 	: φτιαχνει καινουριο repository
+git status 	: μας δειχνει την κατασταση του repository
+git add 	: προσθετει αρχεια στο commit
+git commit	: δημιουργει ενα save point με τις αλλαγες μας.
+git commit -am "test"	: δημιουργει ενα save point με τις αλλαγες μας με μυνημα "test"
+git checkout "commit_id": μας μεταφερει σε μια προηγουμενη κατασταση
